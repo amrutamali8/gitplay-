@@ -1,4 +1,4 @@
 i am playing on git fetch & git pull
 
 git fech - only checkout the new changes
-git pull -checck and download the new changes 
+git pull -check and download the new changes 
